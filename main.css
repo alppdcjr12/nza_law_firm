@@ -1,0 +1,13 @@
+body {
+    background-image: url("wood_panel.png");
+    background-repeat: no-repeat;
+}
+
+.nav_main {
+    background-color: #ffffff;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    border-left: none;
+    border-right: none;
+    color: black;
+}
